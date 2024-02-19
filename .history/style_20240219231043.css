@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background:url(../mdm-break-out/img/5ffa2b2561578d81551c3c1c61c5ec68.jpg);
+}

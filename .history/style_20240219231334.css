@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background:url(../mdm-break-out/img/5ffa2b2561578d81551c3c1c61c5ec68.jpg);
+}
+canvas{
+    border:2px solid white;
+    border-radius: 15px;
+    background-color: azure;
+    backdrop-filter: blur(40px);
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+
+}
